@@ -1,0 +1,28 @@
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>
+    {% if page.title == "Home" %}
+      Y8 2017 spring in Shibuya
+    {% else %}
+      {{ page.title }} &middot; Y8 2017 spring in Shibuya
+    {% endif %}
+  </title>
+
+  <link rel="stylesheet" href="{{ site.baseurl }}/styles.css">
+  <link rel="shortcut icon" href="{{ site.baseurl }}/public/favicon.ico">
+  <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="{{ site.baseurl }}/atom.xml">
+
+  <meta name="keywords" content="Yet Another Pachimon Conference" />
+  <meta name="description" content="Y8 2017 spring in Shibuya. 2017/5/27(sat) " />
+
+  {% if page.title == "Home" %}
+    <meta property="og:title" content="Y8 2017 spring in Shibuya. 2017/5/27(sat)" />
+  {% else %}
+    <meta property="og:title" content="{{ page.title }} &middot; Y8 2017 spring in Shibuya. 2017/5/27(sat)" />    
+  {% endif %}
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="http://y8-2017-spring.hachiojipm.org{{ page.url }}" />
+  <meta property="og:image" content="http://y8-2017-spring.hachiojipm.org/images/ogp.png" />
+</head>

@@ -1,0 +1,57 @@
+---
+layout: default
+title: Home
+---
+
+<div class="posts">
+  {% if paginator.next_page == 2 %}
+  <article class="post">
+    <h1 class="post-title">
+      Y8 2016 mid in Shibuya開催予定です。
+    </h1>
+    
+    <p>こまかいことを調整中です</p>
+
+    <p>
+      <a href="http://yapcasia8oji-2016mid.hachiojipm.org/">去年結構でっかいのをやった</a> んですが、好評であったことと、
+      どんどんと立派に、ビッグになるヨソとはまったく違う、質素な持ち寄りスタンスでなんかやるか〜会場も借りられるし！という感じです。
+    </p>
+
+    <p>2017/5/27(土)、渋谷です</p>
+    
+    <p>ちいさい感じで、スピード感ある感じにしたいとおもいますが、予定は未定です。</p>
+    
+  </article>
+  {% endif %}
+</div>
+
+
+<div class="posts">
+  {% for post in paginator.posts %}
+  <article class="post">
+    <h1 class="post-title">
+      <a href="{{ site.baseurl }}{{ post.url }}">
+        {{ post.title }}
+      </a>
+    </h1>
+
+    <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
+
+    {{ post.content }}
+  </article>
+  {% endfor %}
+</div>
+
+<div class="pagination">
+  {% if paginator.next_page %}
+    <a class="pagination-item older" href="{{ paginator.next_page_path | prepend: site.baseurl }}">Older</a>
+  {% else %}
+    <span class="pagination-item older">Older</span>
+  {% endif %}
+  {% if paginator.previous_page %}
+    <a class="pagination-item newer" href="{{ paginator.previous_page_path | prepend: site.baseurl }}">Newer</a>
+  {% else %}
+    <span class="pagination-item newer">Newer</span>
+  {% endif %}
+</div>
+

@@ -1,0 +1,13 @@
+permalink:           pretty
+title:               Y8 2017 spring in shibuya
+url:                 http://y8-2017-spring.hachiojipm.org/
+paginate:            1
+baseurl:             ""
+
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+gems:
+  - jekyll-paginate
+  - jekyll-gist
