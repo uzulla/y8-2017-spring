@@ -118,7 +118,7 @@ title: 近況報告
 
 開催前（今から）slackにて相談部屋というものを設けます。
 
-https://slack-auto-invitation.azurewebsites.net/team/yapc8oji
+[https://slack-auto-invitation.azurewebsites.net/team/yapc8oji](https://slack-auto-invitation.azurewebsites.net/team/yapc8oji)
 
 ここの`#random`にいきなり書き込むとよいです。たとえば
 
@@ -154,7 +154,7 @@ https://slack-auto-invitation.azurewebsites.net/team/yapc8oji
 
 Slackよくわからない？大丈夫、むずかしくないからためしてみましょう。
 
-（使い方自体はググってみていただいて、わからないところあったらhttps://twitter.com/yapcasia8oji にmentionとばしてみたらよいとおもいます！）
+（使い方自体はググってみていただいて、わからないところあったら[https://twitter.com/yapcasia8oji](https://twitter.com/yapcasia8oji) にmentionとばしてみたらよいとおもいます！）
 
 これでそんな人が観測されなかったならば、人徳のなさ（？）と、世の中の「社交辞令」をぼくが改めて学びます。
 
@@ -311,7 +311,7 @@ CFPって単語がそもそもわからんみたいなのあるとおもいま�
 
 今後の情報はこのブログをRSSで見たり、公式ツイッターをフォロー下さい。
 
-https://twitter.com/yapcasia8oji
+[https://twitter.com/yapcasia8oji](https://twitter.com/yapcasia8oji)
 
 
 
@@ -319,4 +319,4 @@ https://twitter.com/yapcasia8oji
 
 Slackです、参加者でも登壇者でもとおりすがりでも参加いただけます。
 
-https://slack-auto-invitation.azurewebsites.net/team/yapc8oji
+[https://slack-auto-invitation.azurewebsites.net/team/yapc8oji](https://slack-auto-invitation.azurewebsites.net/team/yapc8oji)
