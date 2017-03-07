@@ -5,15 +5,23 @@
 
 .page,
 .post {
-  margin-bottom: 4em;
+  margin-bottom: 3em;
 
   background-color: #FFF;
-  padding: 2rem;
+  padding: 2rem 1.5rem;
   box-shadow: 1px 1px 5px rgba(0, 0, 0, .1);
-  border-radius: 4px;
+  @media (min-width: $large-breakpoint) {
+    margin-bottom: 4em;
+    padding: 2rem;
+    border-radius: 4px;
+  }
 
   li + li {
     margin-top: .25rem;
+  }
+
+  a{
+    word-break: break-all;
   }
 }
 

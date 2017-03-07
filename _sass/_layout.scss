@@ -4,17 +4,23 @@
 
 .container {
   max-width: 42rem;
-  padding-left:  1.5rem;
-  padding-right: 1.5rem;
+  padding-left: 0;
+  padding-right: 0;
   margin-left:  auto;
   margin-right: auto;
+  @media (min-width: $large-breakpoint) {
+    padding-left:  1.5rem;
+    padding-right: 1.5rem;
+  }
 }
 
 footer {
   background-color: #FFF;
   padding: 2rem;
   box-shadow: 1px 1px 5px rgba(0, 0, 0, .1);
-  border-radius: 4px 4px 0 0;
+  @media (min-width: $large-breakpoint) {
+    border-radius: 4px 4px 0 0;
+  }
 }
 
 #social-buttons > * {
