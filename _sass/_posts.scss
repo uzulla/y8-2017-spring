@@ -7,6 +7,11 @@
 .post {
   margin-bottom: 4em;
 
+  background-color: #FFF;
+  padding: 1rem;
+  box-shadow: 1px 1px 5px rgba(0, 0, 0, .1);
+  border-radius: 4px;
+
   li + li {
     margin-top: .25rem;
   }
@@ -27,7 +32,7 @@
 .post-date {
   display: block;
   margin-top: -.5rem;
-  margin-bottom: 1rem;
+  margin-bottom: 2rem;
   color: #9a9a9a;
 }
 
