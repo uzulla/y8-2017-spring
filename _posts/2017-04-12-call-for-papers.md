@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ということで、y8 2017 in shibyaトーカー募集です！
+title: ということで、y8 2017 in shibuyaトーカー募集です！
 ---
 
 前回書いたエントリの通りですが、y8 2017 in shibuyaというちいさめなIT系ならなんでもありカンファレンスを開催します！
