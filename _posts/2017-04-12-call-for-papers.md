@@ -14,7 +14,7 @@ title: ということで、y8 2017 in shibyaトーカー募集です！
 
 応募には以下のrepoのISSUEにNew Issueを立てる形で書いて下さいね。
 
-https://github.com/uzulla/y8-2017-spring-talks/issues
+[https://github.com/uzulla/y8-2017-spring-talks/issues](https://github.com/uzulla/y8-2017-spring-talks/issues)
 
 テンプレは[こちら](https://github.com/uzulla/y8-2017-spring-talks/issues/2)。（なるたけ自動処理したいので、できるだけテンプレの通りで…！）
 
