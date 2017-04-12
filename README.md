@@ -1,10 +1,10 @@
 # y8-2017-spring
 春ごろにやるやぱちー的なイベントのrepoです。
 
-# うぇっぶさいと
+# web site
 http://y8-2017-spring.hachiojipm.org/
 
-# 確認方法
+# サイト確認方法（作業者向け）
 ```
 $ gem install bundler
 $ cd /path/to/y8repo/
