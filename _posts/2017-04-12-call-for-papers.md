@@ -16,7 +16,7 @@ title: ということで、y8 2017 in shibuyaトーカー募集です！
 
 [https://github.com/uzulla/y8-2017-spring-talks/issues](https://github.com/uzulla/y8-2017-spring-talks/issues)
 
-テンプレは[こちら](https://github.com/uzulla/y8-2017-spring-talks/issues/2)。（なるたけ自動処理したいので、できるだけテンプレの通りで…！）
+テンプレは[こちら](https://gist.github.com/uzulla/7626584e8d4c1b0eef4bc7f35b0852c6)。（なるたけ自動処理したいので、できるだけテンプレの通りで…！）
 
 Githubがわからん！という人はこの機会に是非アカウント取得してみましょう。むずかしくナイヨ！
 
