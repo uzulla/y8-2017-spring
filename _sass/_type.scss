@@ -12,11 +12,13 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
+  margin-top: 4rem;
+  margin-bottom: 1rem;
   font-size: 1.7rem;
 }
 
 h2 {
-  margin-top: 1rem;
+  margin-top: 3rem;
   font-size: 1.3rem;
 }
 
@@ -74,7 +76,7 @@ abbr {
 
 blockquote {
   padding: .5rem 1rem;
-  margin: .8rem 0;
+  margin: 1.6rem 0;
   color: #7a7a7a;
   border-left: .25rem solid #e5e5e5;
 
@@ -82,7 +84,7 @@ blockquote {
     margin-bottom: 0;
   }
 
-  @media (min-width: 30em) {
+  @media (min-width: $large-breakpoint) {
     padding-right: 5rem;
     padding-left: 1.25rem;
   }
