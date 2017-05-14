@@ -542,6 +542,9 @@ border: solid 1px #000;
             ・<a href="https://github.com/uzulla/y8-2017-spring-talks/issues/15"> 春だ！webフロントエンド開発を語り尽くすぞ！！</a>(40min)
              by <a href="http://twitter.com/ushiboy">ushiboy</a> and <a href="http://twitter.com/neko_gata_s">しんぺいa.k.a. 猫型蓄音機</a><br>
              <br>
+             ・ 自作3Dプリンタあれから　〜オートレベリング、モデリング、春のフィラメント祭り〜 (20min)
+             by <a href="https://twitter.com/mackee_w">macopy</a><br>
+             <br>
             ・TBD...
             
             </td>
