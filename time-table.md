@@ -3,6 +3,8 @@ layout: page
 title: Time Table
 ---
 
+<a href="https://y8-2017-spring-vote.hachiojipm.org/">投票はこちらからどうぞ</a>
+
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <style type="text/css">
 .row-header-wrapper, .row-headers-background{
