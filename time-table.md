@@ -394,7 +394,7 @@ border: solid 1px #000;
             <td class="s0" dir="ltr">15:40</td>
             <td class="s3" dir="ltr" rowspan="2">
             OSSの敵なっちゃうのもいいじゃない
-             by <a href="http://twitter.com/lestrrat">lestrrat</a></s>
+             by <a href="http://twitter.com/lestrrat">lestrrat</a>
             </td>
         </tr>
         <tr style='height:20px;'>
