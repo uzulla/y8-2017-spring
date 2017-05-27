@@ -393,8 +393,8 @@ border: solid 1px #000;
             </th>
             <td class="s0" dir="ltr">15:40</td>
             <td class="s3" dir="ltr" rowspan="2">
-            <s><a href="https://github.com/uzulla/y8-2017-spring-talks/issues/27">LiquidHaskell で普通の型システムの上を行け</a>
-             by <a href="http://twitter.com/y_taka_23">チェシャ猫</a></s>
+            OSSの敵なっちゃうのもいいじゃない
+             by <a href="http://twitter.com/lestrrat">lestrrat</a></s>
             </td>
         </tr>
         <tr style='height:20px;'>
