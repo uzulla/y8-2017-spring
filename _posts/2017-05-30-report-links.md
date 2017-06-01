@@ -15,3 +15,4 @@ title: レポートエントリリンク集
 - [hkoba blog - やぷしー(やっぱち, Y8)2017春に行ってきました感想〜](http://hkoba.hatenablog.com/entry/2017/05/28/114105)
 - [Foreverly - Y8 2017で登壇デビューしました](http://ozashu.hatenablog.com/entry/2017/05/30/112533)
 - [オンライン配信システムの構築レポート](http://vook.vc/n/315)
+- [ミルク色の記録 - Y8 2017 spring in Shibuyaに参加してきた](http://greenhorn.hateblo.jp/entry/2017/05/29/235752)
