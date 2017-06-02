@@ -3,8 +3,6 @@ layout: page
 title: Time Table
 ---
 
-<a href="https://y8-2017-spring-vote.hachiojipm.org/">ベストスピーカー賞への投票はこちらからどうぞ</a>
-
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <style type="text/css">
 .row-header-wrapper, .row-headers-background{
@@ -14,14 +12,14 @@ thead{
     display:none;
 }
 table{
-    
+
     border-collapse: collapse;
 }
 
 table, td, th {
 border: solid 1px #000;
 }
-    
+
 
 
 .ritz .waffle a {
@@ -548,7 +546,7 @@ border: solid 1px #000;
              by <a href="https://twitter.com/mackee_w">macopy</a><br>
              <br>
             ・TBD...
-            
+
             </td>
         </tr>
         <tr style='height:20px;'>
@@ -663,4 +661,3 @@ border: solid 1px #000;
         </tbody>
     </table>
 </div>
-
