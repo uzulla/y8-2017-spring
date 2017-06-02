@@ -16,5 +16,6 @@ title: レポートエントリリンク集
 - [Foreverly - Y8 2017で登壇デビューしました](http://ozashu.hatenablog.com/entry/2017/05/30/112533)
 - [オンライン配信システムの構築レポート](http://vook.vc/n/315)
 - [ミルク色の記録 - Y8 2017 spring in Shibuyaに参加してきた](http://greenhorn.hateblo.jp/entry/2017/05/29/235752)
+- [Y8 2017 Spring in Shibuya で登壇してきました #y8spring - 茨城県つくばみらい市から来ました](http://motchang.hatenablog.com/entry/2017/05/29/095608)
 
 - [togetter(当日のTwitterの様子)](https://togetter.com/li/1114437)
